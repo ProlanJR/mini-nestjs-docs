@@ -2,4 +2,4 @@
 
 ## provider
 
-这是内容
+<HelloWorld/>

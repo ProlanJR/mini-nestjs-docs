@@ -7,7 +7,7 @@ console.log(resolve(__dirname, './components'))
 export default defineUserConfig({
     lang: 'zh-CN',
     title: 'mini-nestjs-docs',
-    description: 'Translation and refinement of the official nestjs documentation ',
+    description: 'NestJS中文文档（非官方）',
     theme: defaultTheme({
         editLink: false,
         sidebar: [{
@@ -24,7 +24,7 @@ export default defineUserConfig({
             text: '文档仓库',
             link: 'https://github.com/ProlanJR/mini-nestjs-docs'
         }, {
-            text: 'Deploy',
+            text: '部署监控',
             link: 'https://app.netlify.com/teams/prolanjr/overview'
         }
         ],
